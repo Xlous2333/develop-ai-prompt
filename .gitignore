@@ -1,0 +1,5 @@
+# Kilo Code specific files
+.kilocodemodes
+
+# VS Code specific files
+.vscode/
